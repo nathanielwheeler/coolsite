@@ -31,11 +31,19 @@ main {
 .main-block {
   display: inline-block;
   width: 40%;
-  padding: 10%;
+  padding: 6% 10% 10% 10%;
+}
+.main-block h2 {
+  text-align: center;
 }
 .main-block p {
-  padding-left: 1em;
-  padding-right: 5em;
+  padding-left: 2em;
+  padding-right: 3em;
+}
+.grey-bar {
+  display: inline-block;
+  background-color: lightgrey;
+  width: 100%;
 }
 .right-block {
   display: inline-block;
