@@ -1,4 +1,11 @@
 .white-on-blue {
   color: white;
-  background-color: blue;
+  background-color: #143176;
+  margin: 0;
+  padding-top: 1em;
+  padding-bottom: 0.25em;
+  text-align: center;
+}
+.font {
+  font-family: sans-serif;
 }
