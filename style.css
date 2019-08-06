@@ -2,10 +2,34 @@
   color: white;
   background-color: #143176;
   margin: 0;
+  border: 0;
   padding-top: 1em;
   padding-bottom: 0.25em;
   text-align: center;
 }
 .font {
   font-family: sans-serif;
+}
+.body-style {
+  float: left;
+  max-width: 4in;
+  margin-left: 10%;
+}
+.body-style p {
+  width: 3in;
+  margin-left: 1em;
+}
+.right-float {
+  float: right;
+  max-width: 2in;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 90%;
+}
+.right-float p {
+  font-size: 0.75em;
+}
+#footer {
+  margin-bottom: 0;
+  margin-top: 50%;
 }
